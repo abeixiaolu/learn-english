@@ -88,4 +88,15 @@
 | wrap up | /ræp ʌp/ | 收尾；结束 | day-008 |  |
 | rollback | /ˈrəʊlbæk/ | 回滚 | day-008 |  |
 | shared drive | /ʃeəd draɪv/ | 共享网盘/驱动器 | day-003 | 回译已学，未进当时 Part 3，后补入总表 |
+| request | /rɪˈkwest/ | 请求；申请 | day-009 |  |
+| message | /ˈmesɪdʒ/ | 消息 | day-009 |  |
+| file | /faɪl/ | 文件 | day-009 |  |
+| resource | /rɪˈsɔːs/ | 资源 | day-009 |  |
+| feedback | /ˈfiːdbæk/ | 反馈 | day-009 |  |
+| information | /ˌɪnfəˈmeɪʃn/ | 信息 | day-009 |  |
+| permission | /pəˈmɪʃn/ | 权限；许可 | day-009 |  |
+| data | /ˈdeɪtə/ | 数据 | day-009 |  |
+| coffee | /ˈkɒfi/ | 咖啡 | day-009 |  |
+| water | /ˈwɔːtə(r)/ | 水 | day-009 |  |
+| time | /taɪm/ | 时间 | day-009 |  |
 
