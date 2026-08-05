@@ -99,4 +99,16 @@
 | coffee | /ˈkɒfi/ | 咖啡 | day-009 |  |
 | water | /ˈwɔːtə(r)/ | 水 | day-009 |  |
 | time | /taɪm/ | 时间 | day-009 |  |
+| faster | /ˈfɑːstə(r)/ | 更快的；更快地 | day-010 |  |
+| slower | /ˈsləʊə(r)/ | 更慢的；更慢地 | day-010 |  |
+| easier | /ˈiːziə(r)/ | 更容易的 | day-010 |  |
+| harder | /ˈhɑːdə(r)/ | 更难的；更努力地 | day-010 |  |
+| cheaper | /ˈtʃiːpə(r)/ | 更便宜的 | day-010 |  |
+| more expensive | /mɔːr ɪkˈspensɪv/ | 更贵的 | day-010 |  |
+| more reliable | /mɔːr rɪˈlaɪəbl/ | 更可靠的 | day-010 |  |
+| more efficient | /mɔːr ɪˈfɪʃnt/ | 更高效的 | day-010 |  |
+| better than | /ˈbetə(r) ðæn/ | 比……更好 | day-010 |  |
+| the best option | /ðə best ˈɒpʃn/ | 最好的选项 | day-010 |  |
+| less | /les/ | 更少的；较少的 | day-010 |  |
+| fewer | /ˈfjuːə(r)/ | 更少的（修饰可数复数） | day-010 |  |
 
