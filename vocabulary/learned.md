@@ -111,4 +111,16 @@
 | the best option | /ðə best ˈɒpʃn/ | 最好的选项 | day-010 |  |
 | less | /les/ | 更少的；较少的 | day-010 |  |
 | fewer | /ˈfjuːə(r)/ | 更少的（修饰可数复数） | day-010 |  |
+| tomorrow | /təˈmɒrəʊ/ | 明天 | day-011 |  |
+| next week | /nekst wiːk/ | 下周 | day-011 |  |
+| later | /ˈleɪtə(r)/ | 稍后；以后 | day-011 |  |
+| soon | /suːn/ | 很快；不久 | day-011 |  |
+| plan | /plæn/ | 计划 | day-011 |  |
+| schedule | /ˈʃedjuːl/ | 日程安排；计划表 | day-011 |  |
+| prepare | /prɪˈpeə(r)/ | 准备 | day-011 |  |
+| release | /rɪˈliːs/ | 发布；发行 | day-011 |  |
+| upgrade | /ˌʌpˈɡreɪd/ | 升级 | day-011 |  |
+| estimate | /ˈestɪmeɪt/ | 估算 | day-011 |  |
+| deadline | /ˈdedlaɪn/ | 截止日期 | day-011 |  |
+| choose | /tʃuːz/ | 选择 | day-011 |  |
 
