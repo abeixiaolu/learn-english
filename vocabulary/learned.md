@@ -123,4 +123,16 @@
 | estimate | /ˈestɪmeɪt/ | 估算 | day-011 |  |
 | deadline | /ˈdedlaɪn/ | 截止日期 | day-011 |  |
 | choose | /tʃuːz/ | 选择 | day-011 |  |
+| should / shouldn't | /ʃʊd/ /ˈʃʊdnt/ | 应该 / 不应该 | day-012 |  |
+| must / mustn't | /mʌst/ /ˈmʌsnt/ | 必须 / 禁止 | day-012 |  |
+| have to / has to | /hæv tuː/ /hæz tuː/ | 必须（外部义务） | day-012 |  |
+| don't have to | /dəʊnt hæv tuː/ | 不必 | day-012 |  |
+| ask for approval | /ɑːsk fɔːr əˈpruːvl/ | 申请批准 | day-012 |  |
+| follow the process | /ˈfɒləʊ ðə ˈprəʊses/ | 遵循流程 | day-012 |  |
+| double-check | /ˌdʌbl ˈtʃek/ | 再核对一遍 | day-012 |  |
+| submit | /səbˈmɪt/ | 提交 | day-012 |  |
+| update | /ˌʌpˈdeɪt/ | 更新 | day-012 |  |
+| stay late | /steɪ leɪt/ | 晚走；加班留下 | day-012 |  |
+| be careful | /bi ˈkeəfl/ | 小心；谨慎 | day-012 |  |
+| priority | /praɪˈɒrəti/ | 优先级 | day-012 |  |
 
