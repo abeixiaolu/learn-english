@@ -135,4 +135,16 @@
 | stay late | /steɪ leɪt/ | 晚走；加班留下 | day-012 |  |
 | be careful | /bi ˈkeəfl/ | 小心；谨慎 | day-012 |  |
 | priority | /praɪˈɒrəti/ | 优先级 | day-012 |  |
+| yet | /jet/ | 还（多用于否定/疑问） | day-013 |  |
+| already | /ɔːlˈredi/ | 已经 | day-013 |  |
+| anyone | /ˈeniwʌn/ | 任何人 | day-013 |  |
+| anything | /ˈeniθɪŋ/ | 任何事；任何东西 | day-013 |  |
+| at all | /ət ɔːl/ | 根本；一点也（不） | day-013 |  |
+| else | /els/ | 其他的 | day-013 |  |
+| confirm | /kənˈfɜːm/ | 确认 | day-013 |  |
+| mention | /ˈmenʃn/ | 提到；提及 | day-013 |  |
+| miss | /mɪs/ | 错过；漏掉 | day-013 |  |
+| delay | /dɪˈleɪ/ | 延迟 | day-013 |  |
+| clarify | /ˈklærəfaɪ/ | 澄清；说明清楚 | day-013 |  |
+| get back to | /ɡet bæk tuː/ | 稍后回复（某人） | day-013 |  |
 
