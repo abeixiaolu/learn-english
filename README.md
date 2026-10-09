@@ -2,6 +2,12 @@
 
 用 **一个 Markdown 文件 = 一天** 的方式学英语。不依赖网页，全部在本地用编辑器 + Git 完成。
 
+## 阅读形式与重启复习
+
+每天只需要打开一个 day 文件：Part 2 包含完整语法讲解，无需跳转到 grammar 文件。讲解不放练习答案；参考答案只在作答后批改时写入练习区。
+
+中断学习后可先从基础分批复习，不新增语法和词汇。当前 Day 015 复习 be 动词、一般现在时、冠词和 there is / are，根据作答再安排后续复习。
+
 ## 每日流程（约 45 分钟）
 
 | 时段 | 模块 | 做什么 |
@@ -26,7 +32,7 @@ learn-english/
 ├── README.md           # 本说明
 ├── PLAN.md             # 学习计划与语法单元大纲
 ├── .cursor/skills/     # daily-study / review-answer / weekly-review
-├── grammar/            # 语法专题（按序号：01-be-verbs.md …）
+├── grammar/            # 历史语法参考；新课程讲解直接合并到 day 文件
 ├── templates/          # 新一天文件模板
 ├── days/               # 每日学习文件 day-001.md …
 └── reviews/            # 7 天复习报告 review-007.md

@@ -28,7 +28,7 @@ argument-hint: "可选：复习截止 day 编号，如 day-007；默认最近完
 
 2. **收集材料**：
    - `days/day-XXX.md`（范围内全部 7 个文件）
-   - `grammar/NN-*.md`（范围内涉及的语法单元）
+   - 当天文件 Part 2 的内嵌语法讲解；旧课程可参考 `grammar/NN-*.md`
    - `PLAN.md` 中对应单元
 
 3. **分析维度**：
