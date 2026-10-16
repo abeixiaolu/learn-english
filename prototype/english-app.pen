@@ -1,0 +1,2408 @@
+{
+  "version": "2.19",
+  "children": [
+    {
+      "type": "frame",
+      "id": "S2XUh",
+      "x": 0,
+      "y": 0,
+      "name": "01 今日 · 24分钟",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "$bg",
+      "layout": "vertical",
+      "padding": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "children": [
+        {
+          "type": "frame",
+          "id": "z4Ssl",
+          "name": "Status",
+          "width": "fill_container",
+          "height": 54,
+          "gap": 12,
+          "padding": [
+            0,
+            24
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "tpEBe",
+              "name": "9:41",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 120,
+              "content": "9:41",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "LQYwe",
+              "name": "●  ▰",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 100,
+              "content": "●  ▰",
+              "lineHeight": 1.5,
+              "textAlign": "right",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "yrdRg",
+          "name": "Content",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "gap": 16,
+          "padding": [
+            8,
+            24,
+            16,
+            24
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "P6cLXD",
+              "name": "句步  /  SMALL STEPS",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "句步  /  SMALL STEPS",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "y0LUG4",
+              "name": "今天，把一句话\n变成你的话。",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "今天，把一句话\n变成你的话。",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "MkzLa",
+              "name": "第 08 天 · 日常表达 A1 → A2",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "第 08 天 · 日常表达 A1 → A2",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "HVyuU",
+              "name": "Today lesson",
+              "width": "fill_container",
+              "fill": "$ink",
+              "cornerRadius": 16,
+              "layout": "vertical",
+              "gap": 14,
+              "padding": 22,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "RZnnt",
+                  "name": "TODAY'S SCENE",
+                  "fill": "#BDCEC0",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "TODAY'S SCENE",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "ln7Rk",
+                  "name": "在咖啡店点单",
+                  "fill": "#FFFFFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "在咖啡店点单",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 24,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "sOmO4",
+                  "name": "I'd like a coffee to go.",
+                  "fill": "#FFFFFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "I'd like a coffee to go.",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Newsreader",
+                  "fontSize": 25,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "yGtJD",
+                  "name": "今天学会：点单 + 说明打包",
+                  "fill": "#BDCEC0",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "今天学会：点单 + 说明打包",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "xTvfx",
+              "name": "Time plan",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "ljDXl",
+                  "name": "24 分钟，完成就收工",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "24 分钟，完成就收工",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "frame",
+                  "id": "DfPcw",
+                  "name": "01  复习昨天的句子",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "justifyContent": "space_between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "AHDDt",
+                      "name": "01  复习昨天的句子",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": 245,
+                      "content": "01  复习昨天的句子",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "r2a2dX",
+                      "name": "4 分钟",
+                      "fill": "$muted",
+                      "textGrowth": "fixed-width",
+                      "width": 65,
+                      "content": "4 分钟",
+                      "lineHeight": 1.5,
+                      "textAlign": "right",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "TkTjH",
+                  "name": "02  在情境里学 3 个表达",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "justifyContent": "space_between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "IvAR7",
+                      "name": "02  在情境里学 3 个表达",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": 245,
+                      "content": "02  在情境里学 3 个表达",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "wFfa9",
+                      "name": "8 分钟",
+                      "fill": "$muted",
+                      "textGrowth": "fixed-width",
+                      "width": 65,
+                      "content": "8 分钟",
+                      "lineHeight": 1.5,
+                      "textAlign": "right",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "LFxeQ",
+                  "name": "03  换个场景，自己说",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "justifyContent": "space_between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "PdcRs",
+                      "name": "03  换个场景，自己说",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": 245,
+                      "content": "03  换个场景，自己说",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "TVdtc",
+                      "name": "8 分钟",
+                      "fill": "$muted",
+                      "textGrowth": "fixed-width",
+                      "width": 65,
+                      "content": "8 分钟",
+                      "lineHeight": 1.5,
+                      "textAlign": "right",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "U0gKV",
+                  "name": "04  闭卷检验",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "justifyContent": "space_between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "RUbDy",
+                      "name": "04  闭卷检验",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": 245,
+                      "content": "04  闭卷检验",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "p4Mtp",
+                      "name": "4 分钟",
+                      "fill": "$muted",
+                      "textGrowth": "fixed-width",
+                      "width": 65,
+                      "content": "4 分钟",
+                      "lineHeight": 1.5,
+                      "textAlign": "right",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "Xk4A7",
+              "name": "开始今天的练习  →",
+              "width": "fill_container",
+              "height": 54,
+              "fill": "$accent",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "nfUVd",
+                  "name": "开始今天的练习  →",
+                  "fill": "#FFFFFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "开始今天的练习  →",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "ey0Hn",
+              "name": "忙碌时可选 12 分钟轻量版",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "忙碌时可选 12 分钟轻量版",
+              "lineHeight": 1.5,
+              "textAlign": "center",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "VQBK3",
+          "name": "Navigation",
+          "width": "fill_container",
+          "height": 60,
+          "fill": "#FFFFFF",
+          "cornerRadius": 30,
+          "gap": 12,
+          "padding": 8,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "rTAws",
+              "name": "今日",
+              "width": "fill_container",
+              "height": 44,
+              "fill": "$soft",
+              "cornerRadius": 22,
+              "layout": "vertical",
+              "gap": 12,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "u4W69",
+                  "name": "今日",
+                  "fill": "$accent",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "今日",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "HWW0Z",
+              "name": "句库",
+              "width": "fill_container",
+              "height": 44,
+              "fill": "#FFFFFF",
+              "cornerRadius": 22,
+              "layout": "vertical",
+              "gap": 12,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "HJh7J",
+                  "name": "句库",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "句库",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "wfMe5",
+              "name": "成长",
+              "width": "fill_container",
+              "height": 44,
+              "fill": "#FFFFFF",
+              "cornerRadius": 22,
+              "layout": "vertical",
+              "gap": 12,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "EKfh4",
+                  "name": "成长",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "成长",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "R8iTYK",
+      "x": 450,
+      "y": 0,
+      "name": "02 句中学词 · 搭配",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "$bg",
+      "layout": "vertical",
+      "padding": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "children": [
+        {
+          "type": "frame",
+          "id": "G12xO",
+          "name": "Status",
+          "width": "fill_container",
+          "height": 54,
+          "gap": 12,
+          "padding": [
+            0,
+            24
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "iz5tH",
+              "name": "9:41",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 120,
+              "content": "9:41",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "bSmqX",
+              "name": "●  ▰",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 100,
+              "content": "●  ▰",
+              "lineHeight": 1.5,
+              "textAlign": "right",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "Xg4EL",
+          "name": "Content",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "gap": 16,
+          "padding": [
+            8,
+            24,
+            16,
+            24
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "eHRsu",
+              "name": "‹  返回       02 / 情境学习",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "‹  返回       02 / 情境学习",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Nc5Fh",
+              "name": "先听懂，再看懂",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "先听懂，再看懂",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "k9hqX",
+              "name": "咖啡店 · 句子 1 / 3",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "咖啡店 · 句子 1 / 3",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "H2qLp3",
+              "name": "Sentence",
+              "width": "fill_container",
+              "fill": "#FFFFFF",
+              "cornerRadius": 16,
+              "layout": "vertical",
+              "gap": 18,
+              "padding": 22,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "wyZQe",
+                  "name": "店员  What can I get for you?",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "店员  What can I get for you?",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 15,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "HwYmp",
+                  "name": "I'd like a coffee\nto go.",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "I'd like a coffee\nto go.",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Newsreader",
+                  "fontSize": 34,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "oFiUK",
+                  "name": "▶  听整句     ↻  慢速",
+                  "fill": "$accent",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "▶  听整句     ↻  慢速",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "zczms",
+              "name": "Contextual phrase",
+              "width": "fill_container",
+              "fill": "$soft",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 20,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "V2kkg",
+                  "name": "to go  ·  打包带走",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "to go  ·  打包带走",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 22,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "Vu8N2",
+                  "name": "这里的 go 不单独记。「a coffee to go」就是一杯打包的咖啡。",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "这里的 go 不单独记。「a coffee to go」就是一杯打包的咖啡。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 15,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "DCQWt",
+                  "name": "同样可以说：a tea to go",
+                  "fill": "$accent",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "同样可以说：a tea to go",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "L67AV",
+              "name": "I'd like…  用来礼貌点单\n我想要一杯咖啡，打包带走。",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "I'd like…  用来礼貌点单\n我想要一杯咖啡，打包带走。",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "kJic0",
+              "name": "明白了，试着说一句  →",
+              "width": "fill_container",
+              "height": 54,
+              "fill": "$accent",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "H5Lzsv",
+                  "name": "明白了，试着说一句  →",
+                  "fill": "#FFFFFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "明白了，试着说一句  →",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "XfU5y",
+              "name": "下一步会逐渐收起提示",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "下一步会逐渐收起提示",
+              "lineHeight": 1.5,
+              "textAlign": "center",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "sIyDV",
+      "x": 900,
+      "y": 0,
+      "name": "03 撤掉提示 · 独立表达",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "$bg",
+      "layout": "vertical",
+      "padding": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "children": [
+        {
+          "type": "frame",
+          "id": "KO7wB",
+          "name": "Status",
+          "width": "fill_container",
+          "height": 54,
+          "gap": 12,
+          "padding": [
+            0,
+            24
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "K0sRd",
+              "name": "9:41",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 120,
+              "content": "9:41",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "YHm5u",
+              "name": "●  ▰",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 100,
+              "content": "●  ▰",
+              "lineHeight": 1.5,
+              "textAlign": "right",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "LACy0",
+          "name": "Content",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "gap": 16,
+          "padding": [
+            8,
+            24,
+            16,
+            24
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "p9kw1I",
+              "name": "‹  返回       03 / 自己说",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "‹  返回       03 / 自己说",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "F47lh",
+              "name": "这次，换你来点单",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "这次，换你来点单",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "e8GEz",
+              "name": "已收起英文示范 · 尝试 1 / 2",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "已收起英文示范 · 尝试 1 / 2",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "gZhfs",
+              "name": "Transfer task",
+              "width": "fill_container",
+              "fill": "$soft",
+              "cornerRadius": 16,
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 22,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "bZlsy",
+                  "name": "你走进另一家咖啡店。",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "你走进另一家咖啡店。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "Gituf",
+                  "name": "你想要一杯茶，打包带走。\n请用一句英文告诉店员。",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "你想要一杯茶，打包带走。\n请用一句英文告诉店员。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "dcTvu",
+              "name": "你的表达",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "你的表达",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "V8F2eZ",
+              "name": "Answer input",
+              "width": "fill_container",
+              "height": 130,
+              "fill": "#FFFFFF",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 20,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "ggbLQ",
+                  "name": "在这里输入，或按下麦克风…",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "在这里输入，或按下麦克风…",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 15,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "r46mO",
+              "name": "Hint controls",
+              "width": "fill_container",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "crCNJ",
+                  "name": "◉  语音作答",
+                  "width": "fill_container",
+                  "height": 54,
+                  "fill": "$accent",
+                  "cornerRadius": 12,
+                  "layout": "vertical",
+                  "gap": 12,
+                  "justifyContent": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "G7VvmN",
+                      "name": "◉  语音作答",
+                      "fill": "#FFFFFF",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "◉  语音作答",
+                      "lineHeight": 1.5,
+                      "textAlign": "center",
+                      "fontFamily": "Inter",
+                      "fontSize": 16,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "XRKsg",
+                  "name": "Optional hint",
+                  "width": "fill_container",
+                  "height": 54,
+                  "layout": "vertical",
+                  "gap": 12,
+                  "justifyContent": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "AziAE",
+                      "name": "给我一点提示",
+                      "fill": "$muted",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "给我一点提示",
+                      "lineHeight": 1.5,
+                      "textAlign": "center",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "A1qNfz",
+              "name": "卡住也没关系。提示分三级：\n意思线索 → 句型开头 → 完整示范",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "卡住也没关系。提示分三级：\n意思线索 → 句型开头 → 完整示范",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "LCpA3",
+              "name": "提交表达",
+              "width": "fill_container",
+              "height": 54,
+              "fill": "$accent",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "G8s7Z",
+                  "name": "提交表达",
+                  "fill": "#FFFFFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "提交表达",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "t6UL8",
+              "name": "查看提示的句子会安排再次练习",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "查看提示的句子会安排再次练习",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "ahEoN",
+      "x": 1350,
+      "y": 0,
+      "name": "04 纠错 · 再说一次",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "$bg",
+      "layout": "vertical",
+      "padding": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "children": [
+        {
+          "type": "frame",
+          "id": "gsFMY",
+          "name": "Status",
+          "width": "fill_container",
+          "height": 54,
+          "gap": 12,
+          "padding": [
+            0,
+            24
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "NouMn",
+              "name": "9:41",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 120,
+              "content": "9:41",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "qpJdJ",
+              "name": "●  ▰",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 100,
+              "content": "●  ▰",
+              "lineHeight": 1.5,
+              "textAlign": "right",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "V3qIj1",
+          "name": "Content",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "gap": 16,
+          "padding": [
+            8,
+            24,
+            16,
+            24
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "AYvWp",
+              "name": "‹  返回       03 / 表达反馈",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "‹  返回       03 / 表达反馈",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Z6sWqa",
+              "name": "意思对了，再顺一点",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "意思对了，再顺一点",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "KT4wS",
+              "name": "你已经表达了「想要茶」。",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "你已经表达了「想要茶」。",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "sMM0A",
+              "name": "Feedback",
+              "width": "fill_container",
+              "fill": "#FFFFFF",
+              "cornerRadius": 16,
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 22,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "wk5w9",
+                  "name": "你的句子",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "你的句子",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "qKUoV",
+                  "name": "I'd like tea go.",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "I'd like tea go.",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Newsreader",
+                  "fontSize": 27,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "oKq6Z",
+                  "name": "试试这样说",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "试试这样说",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "U6CqFa",
+                  "name": "I'd like a tea to go.",
+                  "fill": "$accent",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "I'd like a tea to go.",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Newsreader",
+                  "fontSize": 27,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "xYKgq",
+              "name": "Specific correction",
+              "width": "fill_container",
+              "fill": "$soft",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 20,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "AoQcG",
+                  "name": "把 to go 一起用",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "把 to go 一起用",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 20,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "a8dNwm",
+                  "name": "这里表示「打包带走」，要保留 to。\na tea 在点单时表示一杯茶。",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "这里表示「打包带走」，要保留 to。\na tea 在点单时表示一杯茶。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 15,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "w2SO0",
+              "name": "▶  听自然的说法",
+              "fill": "$accent",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "▶  听自然的说法",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Gy99s",
+              "name": "接下来收起示范，再试一次。\n答对后，明天会换一个场景复习。",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "接下来收起示范，再试一次。\n答对后，明天会换一个场景复习。",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "D8zYA",
+              "name": "收起示范，再说一次",
+              "width": "fill_container",
+              "height": 54,
+              "fill": "$accent",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "r6UAI",
+                  "name": "收起示范，再说一次",
+                  "fill": "#FFFFFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "收起示范，再说一次",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "KZnE5",
+      "x": 1800,
+      "y": 0,
+      "name": "05 今日检验 · 完成",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "$bg",
+      "layout": "vertical",
+      "padding": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "children": [
+        {
+          "type": "frame",
+          "id": "xyaEq",
+          "name": "Status",
+          "width": "fill_container",
+          "height": 54,
+          "gap": 12,
+          "padding": [
+            0,
+            24
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "N0B8D0",
+              "name": "9:41",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 120,
+              "content": "9:41",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "j6UYFy",
+              "name": "●  ▰",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 100,
+              "content": "●  ▰",
+              "lineHeight": 1.5,
+              "textAlign": "right",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "mWQSB",
+          "name": "Content",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "gap": 16,
+          "padding": [
+            8,
+            24,
+            16,
+            24
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "wWmDT",
+              "name": "04 / 闭卷检验完成",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "04 / 闭卷检验完成",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "z6VTO2",
+              "name": "今天，你能独立点单了",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "今天，你能独立点单了",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "H11p3f",
+              "name": "完成 24 分钟 · 示例数据",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "完成 24 分钟 · 示例数据",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "Kk9RY",
+              "name": "Result",
+              "width": "fill_container",
+              "fill": "$ink",
+              "cornerRadius": 16,
+              "layout": "vertical",
+              "gap": 10,
+              "padding": 24,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "r2uz72",
+                  "name": "不看提示，换场景表达",
+                  "fill": "#BDCEC0",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "不看提示，换场景表达",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 15,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "CgNyw",
+                  "name": "2 / 3 句",
+                  "fill": "#FFFFFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "2 / 3 句",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Newsreader",
+                  "fontSize": 42,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "m7pvF6",
+                  "name": "其中 1 句还需要一点提示",
+                  "fill": "#BDCEC0",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "其中 1 句还需要一点提示",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "QVQXn",
+              "name": "看见今天的变化",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "看见今天的变化",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 18,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "c0l5i",
+              "name": "Before and after",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Fx9jk",
+                  "name": "练习前   需要完整句子示范",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "练习前   需要完整句子示范",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 15,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "JLaAj",
+                  "name": "练习后   独立说出 a tea to go",
+                  "fill": "$accent",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "练习后   独立说出 a tea to go",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "x8Vop",
+              "name": "今天会用了 ≠ 长期掌握\n明天会用新场景再次检验 to go。",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "今天会用了 ≠ 长期掌握\n明天会用新场景再次检验 to go。",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "IPQK0",
+              "name": "Tomorrow",
+              "width": "fill_container",
+              "fill": "$soft",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 18,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "K6ohK",
+                  "name": "明天 · 买早餐",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "明天 · 买早餐",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "IOC5s",
+                  "name": "复习 2 句，再学一个新表达。",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "复习 2 句，再学一个新表达。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "Vx8xY",
+              "name": "今天到这里，看看成长",
+              "width": "fill_container",
+              "height": 54,
+              "fill": "$accent",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "YqujE",
+                  "name": "今天到这里，看看成长",
+                  "fill": "#FFFFFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "今天到这里，看看成长",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "jBxt3",
+              "name": "已经完成计划，可以安心收工。",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "已经完成计划，可以安心收工。",
+              "lineHeight": 1.5,
+              "textAlign": "center",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "O9OBL8",
+      "x": 2250,
+      "y": 0,
+      "name": "06 成长 · 能力证据",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "$bg",
+      "layout": "vertical",
+      "padding": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "children": [
+        {
+          "type": "frame",
+          "id": "ZFqt2",
+          "name": "Status",
+          "width": "fill_container",
+          "height": 54,
+          "gap": 12,
+          "padding": [
+            0,
+            24
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "izQHk",
+              "name": "9:41",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 120,
+              "content": "9:41",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "S4PbV",
+              "name": "●  ▰",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 100,
+              "content": "●  ▰",
+              "lineHeight": 1.5,
+              "textAlign": "right",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "ITuM1",
+          "name": "Content",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "gap": 16,
+          "padding": [
+            8,
+            24,
+            16,
+            24
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "b7soDK",
+              "name": "成长记录    /    示例数据",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "成长记录    /    示例数据",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "r2qB59",
+              "name": "进步，有迹可循",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "进步，有迹可循",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "gQ0ZX",
+              "name": "最近 7 天 · 日常表达",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "最近 7 天 · 日常表达",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "y91e8",
+              "name": "Weekly evidence",
+              "width": "fill_container",
+              "fill": "$ink",
+              "cornerRadius": 16,
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 22,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "e4fW6",
+                  "name": "同难度 · 首次作答 · 无提示",
+                  "fill": "#BDCEC0",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "同难度 · 首次作答 · 无提示",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "O8bUL",
+                  "name": "3 / 10  →  7 / 10",
+                  "fill": "#FFFFFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "3 / 10  →  7 / 10",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Newsreader",
+                  "fontSize": 33,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "UjUVg",
+                  "name": "换一组新句子，也能独立表达",
+                  "fill": "#BDCEC0",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "换一组新句子，也能独立表达",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "vWgoP",
+              "name": "你现在能做什么",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "你现在能做什么",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 18,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "QPCDc",
+              "name": "✓  点一杯饮料并说明打包",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "✓  点一杯饮料并说明打包",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "y1sgj",
+              "name": "✓  介绍自己的日常习惯",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "✓  介绍自己的日常习惯",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "PkHNW",
+              "name": "○  提出请求：还需提示",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "○  提出请求：还需提示",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "e4FoK7",
+              "name": "Delayed check",
+              "width": "fill_container",
+              "fill": "$soft",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 18,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "enZJM",
+                  "name": "隔 3 天，仍能说对  5 / 8 句",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "隔 3 天，仍能说对  5 / 8 句",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 17,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "BWTDg",
+                  "name": "另 3 句已放进复习，不增加今天时长。",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "另 3 句已放进复习，不增加今天时长。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "wGoQI",
+              "name": "下一步：从「点单」到「提出请求」\n连续两次隔日无提示答对后再升级。",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "下一步：从「点单」到「提出请求」\n连续两次隔日无提示答对后再升级。",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "moDZc",
+              "name": "回顾我会说的句子",
+              "width": "fill_container",
+              "height": 54,
+              "fill": "$accent",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "jzBZk",
+                  "name": "回顾我会说的句子",
+                  "fill": "#FFFFFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "回顾我会说的句子",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "tOuLL",
+      "x": 2700,
+      "y": 0,
+      "name": "07 句库 · 复习状态",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "$bg",
+      "layout": "vertical",
+      "padding": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "children": [
+        {
+          "type": "frame",
+          "id": "v7hXs6",
+          "name": "Status",
+          "width": "fill_container",
+          "height": 54,
+          "gap": 12,
+          "padding": [
+            0,
+            24
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "l4hpBa",
+              "name": "9:41",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 120,
+              "content": "9:41",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "BT9bT",
+              "name": "●  ▰",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": 100,
+              "content": "●  ▰",
+              "lineHeight": 1.5,
+              "textAlign": "right",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "tLrbN",
+          "name": "Content",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "gap": 16,
+          "padding": [
+            8,
+            24,
+            16,
+            24
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "x1S7ws",
+              "name": "我的句库",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "我的句库",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": "600"
+            },
+            {
+              "type": "text",
+              "id": "g3THHS",
+              "name": "词汇跟着句子走。",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "词汇跟着句子走。",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "P3Y5J",
+              "name": "State counts",
+              "width": "fill_container",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "Jgn4u",
+                  "name": "会独立说 12",
+                  "width": "fill_container",
+                  "fill": "$soft",
+                  "cornerRadius": 8,
+                  "layout": "vertical",
+                  "gap": 12,
+                  "padding": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "Tb6sR",
+                      "name": "会独立说 12",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "会独立说 12",
+                      "lineHeight": 1.5,
+                      "textAlign": "center",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Z83iQ",
+                  "name": "待巩固 5",
+                  "width": "fill_container",
+                  "fill": "$soft",
+                  "cornerRadius": 8,
+                  "layout": "vertical",
+                  "gap": 12,
+                  "padding": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "rSt6j",
+                      "name": "待巩固 5",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "待巩固 5",
+                      "lineHeight": 1.5,
+                      "textAlign": "center",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "cwqDy",
+                  "name": "新学 3",
+                  "width": "fill_container",
+                  "fill": "$soft",
+                  "cornerRadius": 8,
+                  "layout": "vertical",
+                  "gap": 12,
+                  "padding": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "AWDcU",
+                      "name": "新学 3",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "新学 3",
+                      "lineHeight": 1.5,
+                      "textAlign": "center",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "UmUI6",
+              "name": "I'd like a coffee to go.",
+              "width": "fill_container",
+              "fill": "#FFFFFF",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 10,
+              "padding": 20,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Q4asW",
+                  "name": "I'd like a coffee to go.",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "I'd like a coffee to go.",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Newsreader",
+                  "fontSize": 24,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "ZtgrR",
+                  "name": "我想要一杯咖啡，打包带走。",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "我想要一杯咖啡，打包带走。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "saV4o",
+                  "name": "待巩固 · 明天换场景检验",
+                  "fill": "$accent",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "待巩固 · 明天换场景检验",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "zwcP5",
+              "name": "I usually get up at seven.",
+              "width": "fill_container",
+              "fill": "#FFFFFF",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 10,
+              "padding": 20,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "jQi1d",
+                  "name": "I usually get up at seven.",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "I usually get up at seven.",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Newsreader",
+                  "fontSize": 24,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "MnzpL",
+                  "name": "我通常七点起床。",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "我通常七点起床。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "C1NgJG",
+                  "name": "会独立说 · 两次隔日检验通过",
+                  "fill": "$accent",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "会独立说 · 两次隔日检验通过",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "rGxQ9",
+              "name": "Could I have some water?",
+              "width": "fill_container",
+              "fill": "#FFFFFF",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 10,
+              "padding": 20,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Bnb5M",
+                  "name": "Could I have some water?",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Could I have some water?",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Newsreader",
+                  "fontSize": 24,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "MFfhe",
+                  "name": "可以给我一些水吗？",
+                  "fill": "$muted",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "可以给我一些水吗？",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "pyhkY",
+                  "name": "新学 · 提出请求",
+                  "fill": "$accent",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "新学 · 提出请求",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "qD562",
+              "name": "复习会融入每日计划，优先巩固旧句。",
+              "fill": "$muted",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "复习会融入每日计划，优先巩固旧句。",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "BVNPJ",
+              "name": "返回今日计划",
+              "width": "fill_container",
+              "height": 54,
+              "fill": "$accent",
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "gap": 12,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "UZHTN",
+                  "name": "返回今日计划",
+                  "fill": "#FFFFFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "返回今日计划",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "bg": {
+      "type": "color",
+      "value": "#F5F3EE"
+    },
+    "ink": {
+      "type": "color",
+      "value": "#1B3A28"
+    },
+    "muted": {
+      "type": "color",
+      "value": "#58715E"
+    },
+    "accent": {
+      "type": "color",
+      "value": "#2D5E3A"
+    },
+    "line": {
+      "type": "color",
+      "value": "#D6DDD0"
+    },
+    "soft": {
+      "type": "color",
+      "value": "#E6ECDD"
+    }
+  },
+  "fileToken": "15514696-9a91-44c1-8f6f-0c63190f9052"
+}

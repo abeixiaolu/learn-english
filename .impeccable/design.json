@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "title": "Design System: 句步响应式网页",
+  "platform": "web",
+  "artifact": "prototype/english-web.pen",
+  "implementation": "prototype/web/",
+  "colors": {
+    "background": "#FAF9F6",
+    "surface": "#FFFFFF",
+    "label": "#17171C",
+    "secondary": "#65656D",
+    "tint": "#2454E6",
+    "blueSoft": "#EEF2FF",
+    "separator": "#E4E3DE"
+  },
+  "typography": {
+    "title": 34,
+    "body": 16,
+    "secondary": 14
+  },
+  "layout": {
+    "desktopInset": 48,
+    "mobileInset": 18,
+    "responsiveBreakpoints": [
+      480,
+      800,
+      1100
+    ]
+  },
+  "scope": "interactive responsive prototype"
+}

@@ -1,0 +1,1573 @@
+{
+  "version": "2.19",
+  "children": [
+    {
+      "type": "frame",
+      "id": "xfOK7",
+      "x": 0,
+      "y": 0,
+      "name": "Desktop · 今日学习",
+      "clip": true,
+      "width": 1440,
+      "height": 1080,
+      "fill": "#FAF9F6",
+      "children": [
+        {
+          "type": "frame",
+          "id": "v3iCAP",
+          "name": "Sidebar",
+          "width": 216,
+          "height": "fill_container",
+          "stroke": "#E4E3DE",
+          "strokeWidth": {
+            "right": 1
+          },
+          "layout": "vertical",
+          "gap": 36,
+          "padding": [
+            40,
+            24
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "me8cn",
+              "name": "句步",
+              "fill": "#17171C",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "句步",
+              "lineHeight": 1.5,
+              "fontFamily": "Noto Sans SC",
+              "fontSize": 30,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "fXE11",
+              "name": "Small steps, real English.",
+              "fill": "#65656D",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Small steps, real English.",
+              "lineHeight": 1.5,
+              "fontFamily": "Inter",
+              "fontSize": 11
+            },
+            {
+              "type": "frame",
+              "id": "iSTa9",
+              "name": "今日学习",
+              "width": "fill_container",
+              "height": 44,
+              "fill": "#EEF2FF",
+              "cornerRadius": 8,
+              "gap": 16,
+              "padding": 12,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "ew0yQ",
+                  "name": "今日学习",
+                  "fill": "#2454E6",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "今日学习",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 15,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "I3Ou8p",
+              "name": "我的场景",
+              "width": "fill_container",
+              "height": 44,
+              "fill": "#FAF9F6",
+              "cornerRadius": 8,
+              "gap": 16,
+              "padding": 12,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "gOVTR",
+                  "name": "我的场景",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "我的场景",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 15
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "C1yCT",
+              "name": "语法与句型",
+              "width": "fill_container",
+              "height": 44,
+              "fill": "#FAF9F6",
+              "cornerRadius": 8,
+              "gap": 16,
+              "padding": 12,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "OfBya",
+                  "name": "语法与句型",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "语法与句型",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 15
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "P69YGH",
+              "name": "学习档案",
+              "width": "fill_container",
+              "height": 44,
+              "fill": "#FAF9F6",
+              "cornerRadius": 8,
+              "gap": 16,
+              "padding": 12,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Hky2b",
+                  "name": "学习档案",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "学习档案",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "V3XvhH",
+          "name": "Workspace",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "children": [
+            {
+              "type": "frame",
+              "id": "EyDXv",
+              "name": "Top bar",
+              "width": "fill_container",
+              "height": 76,
+              "stroke": "#E4E3DE",
+              "strokeWidth": {
+                "bottom": 1
+              },
+              "gap": 16,
+              "padding": [
+                0,
+                48
+              ],
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "a8pxJ",
+                  "name": "你的英语学习空间",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "你的英语学习空间",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 13
+                },
+                {
+                  "type": "text",
+                  "id": "NvK2m",
+                  "name": "快速摸底  ↗",
+                  "fill": "#2454E6",
+                  "textGrowth": "fixed-width",
+                  "width": 100,
+                  "content": "快速摸底  ↗",
+                  "lineHeight": 1.5,
+                  "textAlign": "right",
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 13
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "kGPlQ",
+              "name": "Content",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 26,
+              "padding": [
+                44,
+                48
+              ],
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Sb0b5",
+                  "name": "今天，练会一个句型。",
+                  "fill": "#17171C",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "今天，练会一个句型。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 34,
+                  "fontWeight": "600",
+                  "letterSpacing": -0.7
+                },
+                {
+                  "type": "text",
+                  "id": "qglTf",
+                  "name": "场景你来选，语法一步步用稳。每天 24 分钟。",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "场景你来选，语法一步步用稳。每天 24 分钟。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 16
+                },
+                {
+                  "type": "frame",
+                  "id": "orC3q",
+                  "name": "Scene selector",
+                  "width": "fill_container",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "yPZ6X",
+                      "name": "公司",
+                      "width": "fill_container",
+                      "height": 40,
+                      "fill": "#EEF2FF",
+                      "cornerRadius": 8,
+                      "stroke": "#2454E6",
+                      "strokeWidth": 1,
+                      "gap": 16,
+                      "padding": 8,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "GcSWc",
+                          "name": "公司",
+                          "fill": "#2454E6",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "公司",
+                          "lineHeight": 1.5,
+                          "textAlign": "center",
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "jFqGl",
+                      "name": "学校",
+                      "width": "fill_container",
+                      "height": 40,
+                      "fill": "#FAF9F6",
+                      "cornerRadius": 8,
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": 1,
+                      "gap": 16,
+                      "padding": 8,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "dVOCC",
+                          "name": "学校",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "学校",
+                          "lineHeight": 1.5,
+                          "textAlign": "center",
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "vqY62",
+                      "name": "机场",
+                      "width": "fill_container",
+                      "height": 40,
+                      "fill": "#FAF9F6",
+                      "cornerRadius": 8,
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": 1,
+                      "gap": 16,
+                      "padding": 8,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "y9VKh",
+                          "name": "机场",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "机场",
+                          "lineHeight": 1.5,
+                          "textAlign": "center",
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "E3r0UO",
+                      "name": "自定义",
+                      "width": "fill_container",
+                      "height": 40,
+                      "fill": "#FAF9F6",
+                      "cornerRadius": 8,
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": 1,
+                      "gap": 16,
+                      "padding": 8,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "VKCU6",
+                          "name": "自定义",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "自定义",
+                          "lineHeight": 1.5,
+                          "textAlign": "center",
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "KRPvm",
+                  "name": "Today's structure",
+                  "width": "fill_container",
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": "#E4E3DE",
+                  "strokeWidth": 1,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "r1295",
+                      "name": "Lesson main",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 18,
+                      "padding": 32,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "KbIP0",
+                          "name": "公司 · 与同事协调工作",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "公司 · 与同事协调工作",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 13
+                        },
+                        {
+                          "type": "text",
+                          "id": "MfHuq",
+                          "name": "礼貌地提出一个请求",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "礼貌地提出一个请求",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 28,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "QAPI2",
+                          "name": "Could + 主语 + 动词原形 + … ?",
+                          "fill": "#2454E6",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Could + 主语 + 动词原形 + … ?",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 28,
+                          "fontWeight": "500"
+                        },
+                        {
+                          "type": "text",
+                          "id": "l3mUKt",
+                          "name": "Could you send me the file?",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Could you send me the file?",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Inter",
+                          "fontSize": 23,
+                          "fontWeight": "500"
+                        },
+                        {
+                          "type": "text",
+                          "id": "l5Paux",
+                          "name": "你能把文件发给我吗？",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "你能把文件发给我吗？",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        },
+                        {
+                          "type": "frame",
+                          "id": "pExzW",
+                          "name": "开始 24 分钟学习",
+                          "width": "fill_container",
+                          "height": 48,
+                          "fill": "#2454E6",
+                          "cornerRadius": 10,
+                          "gap": 16,
+                          "padding": [
+                            0,
+                            18
+                          ],
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "y39rp",
+                              "name": "开始 24 分钟学习",
+                              "fill": "#FFFFFF",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "开始 24 分钟学习",
+                              "lineHeight": 1.5,
+                              "textAlign": "center",
+                              "fontFamily": "Noto Sans SC",
+                              "fontSize": 15,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "id": "FBHyX",
+                          "name": "先做 4 分钟摸底",
+                          "fill": "#2454E6",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "先做 4 分钟摸底",
+                          "lineHeight": 1.5,
+                          "textAlign": "center",
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "yiy4M",
+                      "name": "Reason",
+                      "width": 340,
+                      "fill": "#F7F7F3",
+                      "layout": "vertical",
+                      "gap": 16,
+                      "padding": 28,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "fasny",
+                          "name": "为什么今天练这个？",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "为什么今天练这个？",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 18,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "YAKoD",
+                          "name": "先从短请求句试学，用作答确定支架多少。不凭少量题给你一个 A2 标签。",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "先从短请求句试学，用作答确定支架多少。不凭少量题给你一个 A2 标签。",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        },
+                        {
+                          "type": "text",
+                          "id": "VrU6U",
+                          "name": "抓住结构：问句语序与动词原形",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "抓住结构：问句语序与动词原形",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        },
+                        {
+                          "type": "text",
+                          "id": "D8Fy9G",
+                          "name": "放入情境：请同事发送文件",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "放入情境：请同事发送文件",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        },
+                        {
+                          "type": "text",
+                          "id": "ziXKI",
+                          "name": "独立迁移：换个地方再请求",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "独立迁移：换个地方再请求",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "id": "vq1Yk",
+                  "name": "今天的 24 分钟",
+                  "fill": "#17171C",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "今天的 24 分钟",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 22,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "frame",
+                  "id": "LNz7d",
+                  "name": "Plan",
+                  "width": "fill_container",
+                  "gap": 20,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "quD6w",
+                      "name": "复习 / 摸底",
+                      "width": "fill_container",
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": {
+                        "top": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 8,
+                      "padding": [
+                        16,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "QlLQV",
+                          "name": "复习 / 摸底",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "复习 / 摸底",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 17,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "bsqVC",
+                          "name": "4 分钟",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "4 分钟",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 13
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "Y4HHA",
+                      "name": "句中学词",
+                      "width": "fill_container",
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": {
+                        "top": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 8,
+                      "padding": [
+                        16,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "ARYQu",
+                          "name": "句中学词",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "句中学词",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 17,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "dymE8",
+                          "name": "8 分钟",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "8 分钟",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 13
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "N8lYof",
+                      "name": "说与写",
+                      "width": "fill_container",
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": {
+                        "top": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 8,
+                      "padding": [
+                        16,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "DD9Yl",
+                          "name": "说与写",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "说与写",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 17,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "m6JjPl",
+                          "name": "8 分钟",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "8 分钟",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 13
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "noNor",
+                      "name": "迁移检验",
+                      "width": "fill_container",
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": {
+                        "top": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 8,
+                      "padding": [
+                        16,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "TUh5K",
+                          "name": "迁移检验",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "迁移检验",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 17,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "rgVbY",
+                          "name": "4 分钟",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "4 分钟",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 13
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "id": "hJlsW",
+                  "name": "场景可以换，学习线索留下来",
+                  "fill": "#17171C",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "场景可以换，学习线索留下来",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 20,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "ZJygd",
+                  "name": "理解、提示下表达、独立表达和新场景迁移，分别留下证据。隔日保持等待真正的后续复测。",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "理解、提示下表达、独立表达和新场景迁移，分别留下证据。隔日保持等待真正的后续复测。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 15
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "kBN0V",
+      "x": 1500,
+      "y": 0,
+      "name": "Mobile · 今日学习",
+      "clip": true,
+      "width": 390,
+      "height": 1600,
+      "fill": "#FAF9F6",
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "N65uIW",
+          "name": "Mobile navigation",
+          "width": "fill_container",
+          "stroke": "#E4E3DE",
+          "strokeWidth": {
+            "bottom": 1
+          },
+          "layout": "vertical",
+          "gap": 12,
+          "padding": 18,
+          "children": [
+            {
+              "type": "text",
+              "id": "ojB1V",
+              "name": "句步",
+              "fill": "#17171C",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "句步",
+              "lineHeight": 1.5,
+              "fontFamily": "Noto Sans SC",
+              "fontSize": 26,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "v5IkW",
+              "name": "Navigation",
+              "width": "fill_container",
+              "gap": 8,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "geCau",
+                  "name": "今日学习",
+                  "fill": "#2454E6",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "今日学习",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 13
+                },
+                {
+                  "type": "text",
+                  "id": "M42v0",
+                  "name": "我的场景",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "我的场景",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 13
+                },
+                {
+                  "type": "text",
+                  "id": "SzMfC",
+                  "name": "句型路线",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "句型路线",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 13
+                },
+                {
+                  "type": "text",
+                  "id": "H0G0p",
+                  "name": "学习档案",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "学习档案",
+                  "lineHeight": 1.5,
+                  "textAlign": "center",
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "ynPOl",
+          "name": "Workspace",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "children": [
+            {
+              "type": "frame",
+              "id": "fhdBA",
+              "name": "Top bar",
+              "width": "fill_container",
+              "height": 76,
+              "stroke": "#E4E3DE",
+              "strokeWidth": {
+                "bottom": 1
+              },
+              "gap": 16,
+              "padding": [
+                0,
+                18
+              ],
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "HksIT",
+                  "name": "你的英语学习空间",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "你的英语学习空间",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 13
+                },
+                {
+                  "type": "text",
+                  "id": "LUBQJ",
+                  "name": "快速摸底  ↗",
+                  "fill": "#2454E6",
+                  "textGrowth": "fixed-width",
+                  "width": 100,
+                  "content": "快速摸底  ↗",
+                  "lineHeight": 1.5,
+                  "textAlign": "right",
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 13
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "picSM",
+              "name": "Content",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 26,
+              "padding": [
+                28,
+                18
+              ],
+              "children": [
+                {
+                  "type": "text",
+                  "id": "tlCno",
+                  "name": "今天，练会一个句型。",
+                  "fill": "#17171C",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "今天，练会一个句型。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 28,
+                  "fontWeight": "600",
+                  "letterSpacing": -0.7
+                },
+                {
+                  "type": "text",
+                  "id": "vmg6y",
+                  "name": "场景你来选，语法一步步用稳。每天 24 分钟。",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "场景你来选，语法一步步用稳。每天 24 分钟。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 14
+                },
+                {
+                  "type": "frame",
+                  "id": "EW4Wk",
+                  "name": "Scene selector",
+                  "width": "fill_container",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "glsp7",
+                      "name": "公司",
+                      "width": "fill_container",
+                      "height": 40,
+                      "fill": "#EEF2FF",
+                      "cornerRadius": 8,
+                      "stroke": "#2454E6",
+                      "strokeWidth": 1,
+                      "gap": 16,
+                      "padding": 8,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "Th9ns",
+                          "name": "公司",
+                          "fill": "#2454E6",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "公司",
+                          "lineHeight": 1.5,
+                          "textAlign": "center",
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "x0jcp",
+                      "name": "学校",
+                      "width": "fill_container",
+                      "height": 40,
+                      "fill": "#FAF9F6",
+                      "cornerRadius": 8,
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": 1,
+                      "gap": 16,
+                      "padding": 8,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "cXLoF",
+                          "name": "学校",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "学校",
+                          "lineHeight": 1.5,
+                          "textAlign": "center",
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "ATusP",
+                      "name": "机场",
+                      "width": "fill_container",
+                      "height": 40,
+                      "fill": "#FAF9F6",
+                      "cornerRadius": 8,
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": 1,
+                      "gap": 16,
+                      "padding": 8,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "AZRN1",
+                          "name": "机场",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "机场",
+                          "lineHeight": 1.5,
+                          "textAlign": "center",
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "lukoS",
+                      "name": "自定义",
+                      "width": "fill_container",
+                      "height": 40,
+                      "fill": "#FAF9F6",
+                      "cornerRadius": 8,
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": 1,
+                      "gap": 16,
+                      "padding": 8,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "kMSZt",
+                          "name": "自定义",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "自定义",
+                          "lineHeight": 1.5,
+                          "textAlign": "center",
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "J8XgBk",
+                  "name": "Today's structure",
+                  "width": "fill_container",
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": "#E4E3DE",
+                  "strokeWidth": 1,
+                  "layout": "vertical",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "oEdIk",
+                      "name": "Lesson main",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 18,
+                      "padding": 22,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "I89At",
+                          "name": "公司 · 与同事协调工作",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "公司 · 与同事协调工作",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 13
+                        },
+                        {
+                          "type": "text",
+                          "id": "Gox3h",
+                          "name": "礼貌地提出一个请求",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "礼貌地提出一个请求",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 25,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "Wa1pM",
+                          "name": "Could + 主语 + 动词原形 + … ?",
+                          "fill": "#2454E6",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Could + 主语 + 动词原形 + … ?",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 24,
+                          "fontWeight": "500"
+                        },
+                        {
+                          "type": "text",
+                          "id": "hmkX1",
+                          "name": "Could you send me the file?",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Could you send me the file?",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Inter",
+                          "fontSize": 23,
+                          "fontWeight": "500"
+                        },
+                        {
+                          "type": "text",
+                          "id": "zNx0k",
+                          "name": "你能把文件发给我吗？",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "你能把文件发给我吗？",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        },
+                        {
+                          "type": "frame",
+                          "id": "HPas9",
+                          "name": "开始 24 分钟学习",
+                          "width": "fill_container",
+                          "height": 48,
+                          "fill": "#2454E6",
+                          "cornerRadius": 10,
+                          "gap": 16,
+                          "padding": [
+                            0,
+                            18
+                          ],
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "TzliU",
+                              "name": "开始 24 分钟学习",
+                              "fill": "#FFFFFF",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "开始 24 分钟学习",
+                              "lineHeight": 1.5,
+                              "textAlign": "center",
+                              "fontFamily": "Noto Sans SC",
+                              "fontSize": 15,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "id": "TOEtH",
+                          "name": "先做 4 分钟摸底",
+                          "fill": "#2454E6",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "先做 4 分钟摸底",
+                          "lineHeight": 1.5,
+                          "textAlign": "center",
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "e4t4Ja",
+                      "name": "Reason",
+                      "width": "fill_container",
+                      "fill": "#F7F7F3",
+                      "layout": "vertical",
+                      "gap": 16,
+                      "padding": 22,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "eD2iC",
+                          "name": "为什么今天练这个？",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "为什么今天练这个？",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 18,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "DmHgP",
+                          "name": "先从短请求句试学，用作答确定支架多少。不凭少量题给你一个 A2 标签。",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "先从短请求句试学，用作答确定支架多少。不凭少量题给你一个 A2 标签。",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        },
+                        {
+                          "type": "text",
+                          "id": "t8aeU",
+                          "name": "抓住结构：问句语序与动词原形",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "抓住结构：问句语序与动词原形",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        },
+                        {
+                          "type": "text",
+                          "id": "d0j8u",
+                          "name": "放入情境：请同事发送文件",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "放入情境：请同事发送文件",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        },
+                        {
+                          "type": "text",
+                          "id": "Yr8fd",
+                          "name": "独立迁移：换个地方再请求",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "独立迁移：换个地方再请求",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 14
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "id": "w7DXS",
+                  "name": "今天的 24 分钟",
+                  "fill": "#17171C",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "今天的 24 分钟",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 22,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "frame",
+                  "id": "T3FDg",
+                  "name": "Plan row",
+                  "width": "fill_container",
+                  "gap": 16,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "uaN1P",
+                      "name": "复习 / 摸底",
+                      "width": "fill_container",
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": {
+                        "top": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 8,
+                      "padding": [
+                        16,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "N00hD7",
+                          "name": "复习 / 摸底",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "复习 / 摸底",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 16,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "evLpS",
+                          "name": "4 分钟",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "4 分钟",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 13
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "VvdRC",
+                      "name": "句中学词",
+                      "width": "fill_container",
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": {
+                        "top": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 8,
+                      "padding": [
+                        16,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "rrN0y",
+                          "name": "句中学词",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "句中学词",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 16,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "bB2pG",
+                          "name": "8 分钟",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "8 分钟",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 13
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "OVpGq",
+                  "name": "Plan row",
+                  "width": "fill_container",
+                  "gap": 16,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "WK0RT",
+                      "name": "说与写",
+                      "width": "fill_container",
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": {
+                        "top": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 8,
+                      "padding": [
+                        16,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "ZQ825",
+                          "name": "说与写",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "说与写",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 16,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "EmhYT",
+                          "name": "8 分钟",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "8 分钟",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 13
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "gDUDq",
+                      "name": "迁移检验",
+                      "width": "fill_container",
+                      "stroke": "#E4E3DE",
+                      "strokeWidth": {
+                        "top": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 8,
+                      "padding": [
+                        16,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "gVya0",
+                          "name": "迁移检验",
+                          "fill": "#17171C",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "迁移检验",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 16,
+                          "fontWeight": "600"
+                        },
+                        {
+                          "type": "text",
+                          "id": "hvUbj",
+                          "name": "4 分钟",
+                          "fill": "#65656D",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "4 分钟",
+                          "lineHeight": 1.5,
+                          "fontFamily": "Noto Sans SC",
+                          "fontSize": 13
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "id": "wv3NZ",
+                  "name": "场景可以换，学习线索留下来",
+                  "fill": "#17171C",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "场景可以换，学习线索留下来",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 20,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "pE2tO",
+                  "name": "理解、提示下表达、独立表达和新场景迁移，分别留下证据。隔日保持等待真正的后续复测。",
+                  "fill": "#65656D",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "理解、提示下表达、独立表达和新场景迁移，分别留下证据。隔日保持等待真正的后续复测。",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Noto Sans SC",
+                  "fontSize": 15
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fileToken": "4278aaec-ac07-468a-ab39-b5e80f82ce00"
+}
