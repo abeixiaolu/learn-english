@@ -148,3 +148,5 @@
 | clarify | /ˈklærəfaɪ/ | 澄清；说明清楚 | day-013 |  |
 | get back to | /ɡet bæk tuː/ | 稍后回复（某人） | day-013 |  |
 
+| as part of the process | /əz pɑːt əv ðə ˈprəʊses/ | 作为流程的一部分；按流程要求 | day-016 | 历史课程或批改已学，Day 018 复习时补录 |
+| on weekends | /ɒn ˌwiːkˈendz/ | 在周末 | day-002 | 历史课程或批改已学，Day 018 复习时补录 |
