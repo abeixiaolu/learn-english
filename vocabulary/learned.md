@@ -150,3 +150,11 @@
 
 | as part of the process | /əz pɑːt əv ðə ˈprəʊses/ | 作为流程的一部分；按流程要求 | day-016 | 历史课程或批改已学，Day 018 复习时补录 |
 | on weekends | /ɒn ˌwiːkˈendz/ | 在周末 | day-002 | 历史课程或批改已学，Day 018 复习时补录 |
+| noon | /nuːn/ | 中午；正午 | day-019 | |
+| midnight | /ˈmɪdnaɪt/ | 午夜 | day-019 | |
+| entrance | /ˈentrəns/ | 入口 | day-019 | |
+| drawer | /drɔː(r)/ | 抽屉 | day-019 | |
+| shelf | /ʃelf/ | 架子；搁板 | day-019 | |
+| calendar | /ˈkælɪndə(r)/ | 日历 | day-019 | |
+| appointment | /əˈpɔɪntmənt/ | 预约；约定 | day-019 | |
+| notice | /ˈnəʊtɪs/ | 通知；告示 | day-019 | |
