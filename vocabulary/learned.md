@@ -158,3 +158,12 @@
 | calendar | /ˈkælɪndə(r)/ | 日历 | day-019 | |
 | appointment | /əˈpɔɪntmənt/ | 预约；约定 | day-019 | |
 | notice | /ˈnəʊtɪs/ | 通知；告示 | day-019 | |
+| keyboard | /ˈkiːbɔːd/ | 键盘 | day-020 | |
+| mouse | /maʊs/ | 鼠标 | day-020 | |
+| cabinet | /ˈkæbɪnət/ | 柜子 | day-020 | |
+| lobby | /ˈlɒbi/ | 大厅 | day-020 | |
+| balcony | /ˈbælkəni/ | 阳台 | day-020 | |
+| cafeteria | /ˌkæfəˈtɪəriə/ | 食堂；自助餐厅 | day-020 | |
+| elevator | /ˈelɪveɪtə(r)/ | 电梯 | day-020 | |
+| notebook | /ˈnəʊtbʊk/ | 笔记本（纸质） | day-020 | |
+| still | /stɪl/ | 仍然；还 | day-003 | 历史例句与 Day 019 批改已见，Day 020 补录；不计今日新词 |
