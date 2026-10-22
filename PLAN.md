@@ -2,6 +2,10 @@
 
 ## 当前学习安排
 
+- 2026-10-22：Day 022 最后订正 1/1，薄弱点复查通关；原 Part 1 3/5、补充复查 2/3、最后复查初答 0/1 的历史成绩保留。新课已批改：Part 2 4/4、Part 4 14/18，新课合计 18/22。because / so 因果方向与基本句型本轮正确；继续单元 14 巩固，下一课先少量复查 cafeteria / cabinet、ask her later 与 on the balcony。because 前逗号作表达提醒，不扣分；Part 4-2、13 不因未单写 now 判错。
+
+- 2026-10-21：Day 021 综合复习已批改：Part 1 5/5、Part 2 5/5、Part 4 14/18，合计 24/28；4 题纠正。词义、冠词、主语、still、数量比较、时态、情态动词和 before 本轮正确；仍需巩固 today / 具体钟点的信息完整性与 on the balcony。下一课先少量闭卷复查这两类问题，再决定单元 13 后续安排。
+
 - 2026-10-20：Day 020 已批改：Part 1 2/3、Part 2 5/5、Part 4 11/18，合计 18/26；8 题纠正。still、主语一致、calendar、“不必”、数量语义及问号复查通过；继续巩固 on the balcony、词义辨认、名词限定词和时间地点信息。November 未单列词表，需补充后复查。Day 021 为综合复习日，不新增语法和词汇。
 
 - 2026-10-19：Day 019 已批改：Part 1 3/3、Part 2 5/5、Part 4 15/18，合计 23/26；时间与地点介词、“不必”、much / more、a / an 和时间信息复查通过。继续巩固单元 13，穿插 still 持续含义、calendar 拼写、单数名词限定词和前后主语一致；疑问句注意问号。
@@ -45,6 +49,7 @@
 | 11 | should / must / have to | `11-modals.md` | must 语气最强 |
 | 12 | 疑问句与否定句 | `12-questions-negation.md` | 助动词提前 |
 | 13 | 介词 in/on/at | `13-prepositions.md` | 时间、地点、固定搭配 |
+| 14 | because / so：原因与结果 | 完整讲解见 Day 022 Part 2 | 分清原因与结果；两个分句结构完整；同一因果关系不重复使用 because 和 so |
 
 ## Day 建议对照（可灵活调整）
 
