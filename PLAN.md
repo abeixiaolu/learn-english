@@ -2,6 +2,16 @@
 
 ## 当前学习安排
 
+- 2026-10-26：Day 024 已批改：Part 1 3/3、Part 2 4/4、Part 4 14/18，全天 21/25（84%）；Part 3 不计分。because / so、today、上午钟点与 balcony 独立提取本轮通过；下一课先少量复查 is risky、地点状态指代、laptop 的具体词义及 attend / join the meeting，复查后可推进下一语法单元。Part 4-11 未单写 now 不扣分；available 替代 free、have meetings 及 at ten o'clock yesterday morning 均接受。
+
+- 2026-10-26：已生成 Day 024，继续单元 14 because / so 巩固；Part 1 闭卷复查 today、上午钟点和 balcony，作答后再判断新语法推进。Part 3 为 2 条上期复习词、8 条新词；尚未作答或批改，不视为已掌握。
+
+- 2026-10-23：Day 023 已完成批改：Part 1 2/3、Part 2 4/4、Part 4 16/18，全天 22/25；Part 3 不计分。because / so 方向与分句结构正确，cafeteria / cabinet、ask her later 和 on the balcony 本轮回译正确。仍需巩固限定“今天”的信息完整性及 at 10 a.m. today / at 10 o'clock this morning；下一课先少量换场景复查，并复查 balcony 独立提取，再判断后续语法推进。当前语境未单写 now、not correct 替代 wrong、these data 及连字符提醒不扣分。
+
+- 2026-10-23：Day 023 Part 1 已批改，2/3；cafeteria / cabinet、ask her later、因果方向及时间信息本轮正确。第 3 题需巩固 balcony 与 on the balcony；第 2 题 I 大写单列提醒不扣分。第 1 题接受既定安排语境下的一般现在时。可继续 Part 2–4，其余部分尚未批改。
+
+- 2026-10-23：已生成 Day 023，继续单元 14 because / so 巩固；Part 1 先复查 cafeteria / cabinet、ask her later、阳台搭配与时间信息。Part 3 为 2 条复习词、8 条新词；尚未作答或批改，不视为已掌握。
+
 - 2026-10-22：Day 022 最后订正 1/1，薄弱点复查通关；原 Part 1 3/5、补充复查 2/3、最后复查初答 0/1 的历史成绩保留。新课已批改：Part 2 4/4、Part 4 14/18，新课合计 18/22。because / so 因果方向与基本句型本轮正确；继续单元 14 巩固，下一课先少量复查 cafeteria / cabinet、ask her later 与 on the balcony。because 前逗号作表达提醒，不扣分；Part 4-2、13 不因未单写 now 判错。
 
 - 2026-10-21：Day 021 综合复习已批改：Part 1 5/5、Part 2 5/5、Part 4 14/18，合计 24/28；4 题纠正。词义、冠词、主语、still、数量比较、时态、情态动词和 before 本轮正确；仍需巩固 today / 具体钟点的信息完整性与 on the balcony。下一课先少量闭卷复查这两类问题，再决定单元 13 后续安排。
