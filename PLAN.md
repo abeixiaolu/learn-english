@@ -2,6 +2,10 @@
 
 ## 当前学习安排
 
+- 2026-10-27：Day 025 已批改：Part 1 3/3、Part 2 4/4、Part 4 17/18，全天 24/25（96%）；Part 3 不计分。目标语法：Part 2 与 Part 4 共 22 题的 but / although 连接、顺序与分句结构均正确，证据充分，可推进。待复查：Part 4-7 available 与 work 的设备功能词义区别；still can 接受，中性语序 can still 仅作建议；Part 4-17 共用 this afternoon 的日期语境不扣分。下一课主线进入单元 16 if 真实条件句，旧词义问题穿插复习，不重复整天单元 15。
+
+- 2026-10-27：按更新后的推进规则重生成 Day 025，主线进入单元 15 but / although（转折与让步）。依据：Day 023、024 的 because / so 因果方向与分句结构均持续正确；其余错误不阻塞推进。Part 1 与 Part 4 后 5 题穿插复查 be + 形容词、地点指代、laptop、参加会议及时间信息。Part 3 保留 2 条上期复习词和 8 条设备新词，增加 although 和 work 的机器运转新义，共 12 条；尚未作答或批改，不视为已掌握。
+
 - 2026-10-26：Day 024 已批改：Part 1 3/3、Part 2 4/4、Part 4 14/18，全天 21/25（84%）；Part 3 不计分。because / so、today、上午钟点与 balcony 独立提取本轮通过；下一课先少量复查 is risky、地点状态指代、laptop 的具体词义及 attend / join the meeting，复查后可推进下一语法单元。Part 4-11 未单写 now 不扣分；available 替代 free、have meetings 及 at ten o'clock yesterday morning 均接受。
 
 - 2026-10-26：已生成 Day 024，继续单元 14 because / so 巩固；Part 1 闭卷复查 today、上午钟点和 balcony，作答后再判断新语法推进。Part 3 为 2 条上期复习词、8 条新词；尚未作答或批改，不视为已掌握。
@@ -60,6 +64,8 @@
 | 12 | 疑问句与否定句 | `12-questions-negation.md` | 助动词提前 |
 | 13 | 介词 in/on/at | `13-prepositions.md` | 时间、地点、固定搭配 |
 | 14 | because / so：原因与结果 | 完整讲解见 Day 022 Part 2 | 分清原因与结果；两个分句结构完整；同一因果关系不重复使用 because 和 so |
+| 15 | but / although：转折与让步 | 完整讲解见 Day 025 Part 2 | 分清反差与因果；although 后接完整句子；同一让步关系不重复使用 although 和 but |
+| 16 | if：真实条件下的安排（待学） | 待下一课编写 | if 从句一般现在时；主句使用 will / can / must；区分条件与原因 |
 
 ## Day 建议对照（可灵活调整）
 
