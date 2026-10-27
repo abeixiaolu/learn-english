@@ -27,6 +27,7 @@ argument-hint: "可选：复习截止 day 编号，如 day-007；默认最近完
    - 未指定 → 根据 `days/` 中最近完成的 7 天（如 day-001 至 day-007）
 
 2. **收集材料**：
+   - 新网页课程同时读取 `lessons/day-XXX.json`、`study-data/attempts/day-XXX/` 与 `study-data/reviews.json`。范围按实际完成课程确定，不能只查 `days/`。区分首次独立回答、当天订正与间隔重测；听力/自由表达分别分析，没有音频证据不评估发音。
    - `days/day-XXX.md`（范围内全部 7 个文件）
    - 当天文件 Part 2 的内嵌语法讲解；旧课程可参考 `grammar/NN-*.md`
    - `PLAN.md` 中对应单元

@@ -10,6 +10,12 @@ argument-hint: "day 编号，如 day-001；默认批改 days/ 中最近有作答
 
 # Review Answer — 检查答题结果
 
+## 网页课程优先路径
+
+当 `lessons/day-XXX.json` 存在时，使用网页批改流程：先确认 `study-data/drafts/day-XXX.json` 有真实作答，再通过本地服务 `/api/grade` 发起批改；GET `/api/bootstrap` 取得请求令牌，按 `app/server.mjs` 的接口结构调用并跟踪 job 到终态。结果在 `study-data/attempts/`，复习队列由服务同步更新。空题跳过；语义正确的多种表达接受；建议不计错；保留原答案与历次提交。不要把网页答案追加到历史 Markdown，也不要把等待中的任务报告为已完成。服务不可用时按 README 启动。
+
+以下流程仅用于 `days/*.md` 历史课程，用户要求批改历史作答时适用。
+
 ## 目标
 
 批改用户在某天文件中的作答。**直接修改** `days/day-XXX.md`：保留用户原答案，在错题下方追加「正确答案」和「解析」，并在文件末尾追加带稳定标签的 `## 错题回顾`。对话中输出今日小结和高频标签。

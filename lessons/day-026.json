@@ -1,0 +1,190 @@
+{
+  "id": "day-026",
+  "date": "2026-10-27",
+  "title": "if：条件成立时怎么安排",
+  "unit": "16：if 真实条件句",
+  "rationale": "Day 025 的 22 道目标语法题均正确使用 but / although，已有充分证据推进单元 16；available / work 的词义问题只作少量复查。Day 026 尚未作答，不认定已掌握。复习参考实际日期：近期复查设备词义，并换场景抽查 10 月 26 日及 10 月 20 日前后练过的内容；同日完成的 Day 025 不算间隔后掌握。Day 028 为下一次综合复习。今日约 45 分钟。",
+  "notes": [
+    {
+      "title": "先闭卷，再学习",
+      "body": "先用约 5 分钟完成 review，再读讲解与词汇约 10 分钟，完成 practice 约 15 分钟，听力约 10 分钟，真实表达约 5 分钟。复习时不要先看后面的规则。"
+    },
+    {
+      "title": "1. if 表示尚未确定的条件",
+      "body": "if 可以理解为“如果……”。先提出一个可能发生、但还没确定的情况，再说明这个情况成立时会怎样。例如：If it rains tomorrow, I will stay home.（如果明天下雨，我就待在家里。）这不是说一定会下雨，而是提前安排下雨时怎么办。本课只练现实中有可能发生的条件，不学与事实相反的假设。"
+    },
+    {
+      "title": "2. 条件部分用一般现在时，即使说的是将来",
+      "body": "基本结构是 If + 主语 + 一般现在时，主语 + will + 动词原形。例如：If Leo finishes early, he will cook dinner.（如果 Leo 提前结束，他就做晚饭。）finishes 说的是将来的可能情况，但在本课这种 if 条件部分仍用一般现在时，不因为中文有“明天、到时候”就加 will。主句才用 will 表示条件成立后的安排或结果。"
+    },
+    {
+      "title": "3. 一般现在时的老规则仍然适用",
+      "body": "if 后不是一律用动词原形：he / she / it 的肯定动作句通常仍要用三单；状态句需要 am / is / are。例如：If the shop is open, we will buy some milk.（如果商店开着，我们就买些牛奶。）否定动作句用 don't / doesn't + 原形，例如：If Mia doesn't feel well, she will rest.（如果 Mia 身体不舒服，她就休息。）be 的否定直接用 isn't / aren't 等形式。"
+    },
+    {
+      "title": "4. 主句也可以用 can 或 must",
+      "body": "条件成立后的意思决定主句用什么。will 表示届时会采取的行动或预计结果；can 表示届时可以、能够；must 表示届时必须。例如：If you have a library card, you can borrow books.（如果你有借书证，就可以借书。）If the light is red, you must stop.（如果是红灯，就必须停下。）这些情态动词后都接动词原形，不加 to，也不加三单词尾。"
+    },
+    {
+      "title": "5. 两部分可以换顺序",
+      "body": "条件在前：If I have time tonight, I will call my sister. 条件在后：I will call my sister if I have time tonight. 两句都表示“如果今晚有空，我就给姐姐打电话”。if 部分在前时，结束后通常加逗号；主句在前、if 部分在后时，通常不加逗号。无论顺序如何，if 仍然带着条件部分走。中文“如果……就……”中的“就”通常不用另外译成 so；本课直接接主句即可。"
+    },
+    {
+      "title": "6. 分清条件、原因和反差",
+      "body": "if：事情是否成立还不确定，先说成立时怎么办。because：把某个情况当作已知原因，说明为什么。although / but：两件事形成反差。例如：If the café is quiet, I will study there. 是先看是否安静再决定；I study there because it is quiet. 是把安静作为在那里学习的原因。写之前先判断两部分是什么关系，不只按中文词序拼接。"
+    },
+    {
+      "title": "7. 作答检查与批改标准",
+      "body": "检查 if 部分的现在时、三单和 be，再检查主句情态动词后的原形，最后核对人物、物品、日期、钟点和地点。语义准确的不同表达都可接受；可选的语序建议与实质错误分开记录。设备 available 表示可供使用，work 表示功能正常，两者不能自动互换。听力按理解证据判断；没有音频提交时，不评估发音和口语流利度。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "if",
+      "meaning": "如果；引出尚未确定的条件",
+      "example": "If you like tea, you can try this one."
+    },
+    {
+      "word": "depend on",
+      "meaning": "取决于；依靠",
+      "example": "The price depends on the size."
+    },
+    {
+      "word": "rain",
+      "meaning": "下雨（动词）；雨（名词）",
+      "example": "It often rains here."
+    },
+    {
+      "word": "work",
+      "meaning": "复习：（机器、设备）能正常运转",
+      "example": "Does the elevator work?"
+    },
+    {
+      "word": "available",
+      "meaning": "复习：可获得的、可供使用的；不保证设备功能正常",
+      "example": "Two meeting rooms are available."
+    }
+  ],
+  "sections": [
+    {
+      "id": "review",
+      "title": "闭卷混合复习",
+      "instruction": "约 5 分钟。先不看讲解和词表，将以下内容译成英语。保留全部信息，不查旧答案。",
+      "questions": [
+        {
+          "id": "d026-r01",
+          "prompt": "那台打印机很旧，但是它仍然能正常运转。",
+          "target": "近期词义错点：work 与 available；but 与完整分句"
+        },
+        {
+          "id": "d026-r02",
+          "prompt": "他今天不必参加那场会议，因为他的笔记本电脑坏了。",
+          "target": "较早正确内容换场景复查：第三人称不必、参加会议、laptop、because 与日期"
+        },
+        {
+          "id": "d026-r03",
+          "prompt": "那本纸质笔记本昨天上午九点在阳台上。",
+          "target": "过去已正确内容的间隔提取：过去时 be、notebook、on the balcony、日期与钟点"
+        }
+      ]
+    },
+    {
+      "id": "practice",
+      "title": "回译：逐步撤去提示",
+      "instruction": "约 15 分钟。译成英语；前 3 题有结构提示，第 4–6 题只给局部提示，第 7–10 题独立选择结构。不要把讲解例句当答案。",
+      "questions": [
+        {
+          "id": "d026-p01",
+          "prompt": "如果这份报告明天准备好了，我就会把它发给你。（结构提示：If + 主语 + be 的现在时, 主语 + will + 原形）",
+          "target": "if 条件中的 be 现在时；主句 will；明天"
+        },
+        {
+          "id": "d026-p02",
+          "prompt": "如果她今天有空，她就可以帮我们检查这个文件。（结构提示：If + 主语 + be 的现在时, 主语 + can + 原形）",
+          "target": "if 条件中的状态；can 表示条件成立后的可能性"
+        },
+        {
+          "id": "d026-p03",
+          "prompt": "如果他发现一个问题，他就必须开一张工单。（结构提示：If + 主语 + 动作动词的现在时, 主语 + must + 原形）",
+          "target": "if 条件中的三单；must 后原形；可数名词限定词"
+        },
+        {
+          "id": "d026-p04",
+          "prompt": "如果连接明天不稳定，我们就不会部署。（提示：条件部分用 be 的否定形式。）",
+          "target": "if 条件的 be 否定；主句将来否定"
+        },
+        {
+          "id": "d026-p05",
+          "prompt": "如果她今天不参加那场会议，我就会稍后给她发一条消息。（提示：注意条件部分的第三人称动作否定。）",
+          "target": "if 条件中的 doesn't 与原形；参加会议；will"
+        },
+        {
+          "id": "d026-p06",
+          "prompt": "如果那个会议室明天是空闲的，我们就可以在那里开会。（要求：先写“我们可以在那里开会”，再接条件。）",
+          "target": "主句在前的 if 条件句；can；地点指代"
+        },
+        {
+          "id": "d026-p07",
+          "prompt": "如果这个充电器明天仍然能正常运转，我就会使用它。",
+          "target": "独立构建真实条件句；设备 work；still；三单"
+        },
+        {
+          "id": "d026-p08",
+          "prompt": "如果她明天上午十点有空，我就会在入口处等她。",
+          "target": "独立构建条件与安排；具体日期、钟点和地点"
+        },
+        {
+          "id": "d026-p09",
+          "prompt": "我们今天不能共享屏幕，因为这台笔记本电脑离线了。",
+          "target": "混合辨别：已知原因与条件；because；laptop"
+        },
+        {
+          "id": "d026-p10",
+          "prompt": "虽然那个音箱现在可供使用，但我们今天不必使用它。",
+          "target": "混合辨别：让步与条件；available；不必；although 不重复配 but"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "听力：可能发生的情况与安排",
+      "instruction": "先不看文字听大意，再打开字幕重听，最后关闭文字回答。没听清的地方可以如实记录。",
+      "questions": [
+        {
+          "id": "d026-l01",
+          "prompt": "用中文概括：你听到的片段在介绍哪种表达用途？写出一个你实际听到的关键词；没听清的地方明确写“未听清”。",
+          "target": "主题理解；区分听到的证据与推测"
+        },
+        {
+          "id": "d026-l02",
+          "prompt": "关闭字幕后，用 1–2 句简单英语说出你从片段理解的一项“情况与相应安排”。若没有听清具体安排，就用自己的真实情况作一组表达，并标注“个人例子”；不要补写成视频原话。",
+          "target": "基于实际理解的简短复述，或明确标记的个人迁移表达"
+        }
+      ]
+    },
+    {
+      "id": "output",
+      "title": "真实表达",
+      "instruction": "约 5 分钟。写 3–4 句英语，也可写完后口头复述。不指定连接词或句型，按真实意思选择表达。",
+      "questions": [
+        {
+          "id": "d026-o01",
+          "prompt": "给同事或学习伙伴写一条关于明天的真实消息：说明你准备做什么、一个尚未确定且可能影响安排的情况，以及安排受影响时你准备怎么办。可以补充需要对方确认的事项。不方便分享工作信息时，写真实的学习安排。",
+          "target": "独立组织真实消息；区分事实、未定情况与后续行动；信息清楚完整"
+        }
+      ]
+    }
+  ],
+  "listening": {
+    "videoId": "kpDaqFQ1YCM",
+    "title": "The first conditional - Grammar: Conditionals with Georgie",
+    "channel": "BBC Learning English",
+    "start": 0,
+    "end": 60,
+    "sourceUrl": "https://www.youtube.com/watch?v=kpDaqFQ1YCM",
+    "evidenceUrl": "https://www.voicetube.com/videos/191103",
+    "evidence": "本次搜索的 YouTube 结果确认了视频标题、BBC Learning English 频道及视频 ID；视频说明把教学用途定位为讨论未来可能发生的情况。对应 VoiceTube 页标题一致，标注 A2；搜索返回的该页字幕文本以 Georgie 介绍真实未来情况及其可能结果开头，随后用天气影响周末安排来说明条件与结果的关系。这支持本课的主题理解与个人迁移任务。打开 VoiceTube 后的可读取正文没有呈现完整字幕或时间戳，因此未确认具体句子与 0:00–1:00 的逐秒对应，不据此设置天气或活动的细节判断题。",
+    "checkedAt": "2026-10-27：本次实际搜索 YouTube，并打开原视频页及对应 VoiceTube 页面；核对搜索结果中的视频元数据、教学说明与第三方字幕搜索摘录。未实际播放，未取得带时间戳字幕，未验证嵌入权限或用户所在地区的播放可用性。 已在本地网页实测：播放器正常加载，点击播放后 YouTube 要求登录以确认不是机器人；当前内置浏览器未能实际播放。",
+    "instructions": "先听大意，再用播放器字幕核对，最后关闭文字简短复述。必要时暂停或重复播放。"
+  }
+}

@@ -6,3 +6,7 @@ answer/
 
 # 系统文件
 .DS_Store
+
+# 本地草稿、提交与批改记录（用网页导出备份）
+study-data/
+node_modules/

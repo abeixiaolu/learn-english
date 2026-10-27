@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>句步 / 每日英语</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header class="masthead">
+      <a class="brand" href="/">句步</a>
+      <div class="header-actions"><div id="cli" class="connection" role="status">检查连接…</div><button id="theme-toggle" class="ghost icon-button" aria-label="切换深浅主题"></button><button id="menu-toggle" class="ghost icon-button mobile-menu" aria-label="学习目录" aria-controls="sidebar" aria-expanded="false"></button></div>
+    </header>
+    <div class="layout">
+      <aside id="sidebar">
+        <nav aria-label="学习导航">
+          <button class="nav active" data-view="lesson">今日学习</button>
+          <button class="nav" data-view="reviews">错题与复习 <span id="due-count"></span></button>
+          <button class="nav" data-view="archive">历史记录</button>
+        </nav>
+        <div class="sidebar-bottom">
+          <button id="generate">编写下一课</button>
+          <a href="/api/export" class="button ghost export">导出记录</a>
+          <p id="job-status" role="status"></p>
+          <p class="small">课程与答案保存在本机</p>
+        </div>
+      </aside>
+      <main id="main" tabindex="-1"><p>正在读取学习记录…</p></main>
+    </div>
+    <div id="notice" role="status" aria-live="polite" class="t-toast"></div>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>
